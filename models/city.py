@@ -13,4 +13,3 @@ class City(BaseModel):
     # Attributes
     name: str = ""
     state_id: str = ""
-
